@@ -4,7 +4,7 @@
 
 <td width="68%">
 
-# Hi, I'm Yoru 👋
+# Hi, I'm Yoru ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 I'm a web development student Self-taught from Argentina 🇦🇷.
 
