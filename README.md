@@ -6,7 +6,7 @@
 
 # Hi, I'm Yoru 👋
 
-I'm a web development student from Argentina 🇦🇷.
+I'm a web development student Self-taught from Argentina 🇦🇷.
 
 I enjoy building modern websites and learning new technologies every day.
 
