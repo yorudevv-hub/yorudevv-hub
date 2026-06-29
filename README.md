@@ -69,7 +69,7 @@ I enjoy building modern websites and learning new technologies every day.
 > Udemy
 
 **Instructor**
-> Cristian Rivera Ira (Yoru)
+> Juan Pablo De la torre Valdez
 
 **Tecnologías**
 
