@@ -58,9 +58,30 @@ I enjoy building modern websites and learning new technologies every day.
 </p>
 ## 🎓 Certifications
 
-### 📜 CSS: La Guía Completa – Flexbox, Grid, SASS +20 Proyectos
+## 📜 Certificaciones
 
-> 🎓 Udemy (CCC)  
-> 👤 Christian Rivera Ira (Yoru)  
-> 🔗 http://ude.my/UC-dfaa930e-5577-4bbc-878d-378214c92406  
+<table>
+<tr>
+<td>
+
+### 🎓 CSS: La Guía Completa
+
+**Plataforma**
+> Udemy
+
+**Instructor**
+> Cristian Rivera Ira (Yoru)
+
+**Tecnologías**
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+🔗 **Certificado**
+https://ude.my/UC-dfaa930e-5577-4bbc-878d-378214c92406
+
+</td>
+</tr>
+</table>
 
