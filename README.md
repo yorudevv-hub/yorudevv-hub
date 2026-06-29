@@ -78,7 +78,7 @@ I enjoy building modern websites and learning new technologies every day.
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 🔗 **Certificado**
-<a href="https://ude.my/UC-dfaa930e-5577-4bbc-878d-378214c92406" target="_blank">click</a>
+https://ude.my/UC-dfaa930e-5577-4bbc-878d-378214c92406
 
 </td>
 </tr>
